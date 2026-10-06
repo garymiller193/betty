@@ -1,2 +1,3 @@
-# betty
-Landing published by Deploy Service
+# Betty Casino
+
+Published by Deploy Service.
